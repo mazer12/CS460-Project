@@ -7,3 +7,5 @@ Future sales prediction
 - **Arima,ETS_3** : Consist of Arima and ETS on month vs item sale, statinority test.
 - **LSTM_1 for CS460**: Consist of univariate LSTM, data conversion and Case-1 for multivariate analysis(where all the shop_id were considered as features).
 - **LSTM_2 for CS460**: Consist of Case-2 for multivariate analysis(where all the item_category_id were considered as features).
+
+NOTE: I used python ver 3.6.10 and keras ver 2.3.1
